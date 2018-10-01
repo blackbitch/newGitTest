@@ -10,5 +10,6 @@ class a{
 				soln = soln+""+Character.toUpperCase(c);
 			else
 				soln = soln+""+Character.toLowerCase(c);
+		}
 	}
 }
